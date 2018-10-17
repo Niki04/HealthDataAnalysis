@@ -1,0 +1,10 @@
+Required package.
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+skitlearn
+mlxtend
+tensorflow
+argparse
