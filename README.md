@@ -1,4 +1,4 @@
-# Health Analysis of human being
+# Analytical approach towards : Health Analysis
 
 ## Problem Statement : Predict whether a patient should be treated of his/her mental illness
 
