@@ -1,7 +1,11 @@
-# Health_Data_Analysis
-## Predict whether a patient should be treated of his/her mental illness
+# Health Analysis of human being
 
-### The proccess is the following:
+## Problem Statement : Predict whether a patient should be treated of his/her mental illness
+
+### Dataset Information
+This dataset is from a survey that measures attitudes towards mental health and frequency of mental health disorders.
+
+#### The proccess is the following:
 
 * Library and data loading
 * Data cleaning
