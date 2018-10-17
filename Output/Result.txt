@@ -1,0 +1,1 @@
+Output shows the index number associated to the patients and its treatment prediction
