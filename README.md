@@ -11,13 +11,13 @@
 * Scaling and fitting
 * Tuning
 * Evaluating models
- ** Logistic Eegression
- ** KNeighbors Classifier
- ** Decision Tree Classifier
- ** Random Forests
- ** Bagging
- ** Boosting
- ** Stacking
+ 1. Logistic Eegression
+ 2. KNeighbors Classifier
+ 3. Decision Tree Classifier
+ 4. Random Forests
+ 5. Bagging
+ 6. Boosting
+ 7. Stacking
 * Predicting with Neural Network
 * Success method plot
 * Creating predictions on test set
