@@ -1,10 +1,10 @@
-Required package.
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-skitlearn
-mlxtend
-tensorflow
-argparse
+Required package for our analysis
+1. pandas : Used for data manipulation and analysis.
+2. numpy : Linear algebra
+3. scipy : Used for scientific computing and technical computing
+4. matplotlib : Create visualizations with Matplotlib
+5. seaborn : Create high standard statistical graphics
+6. skitlearn : Used for Data mining and data analysis 
+7. mlxtend : Machine learning extension for data science tasks
+8. tensorflow : Used for machine learning application here we used it to implement neural networks.
+9. argparse : Command-line interface
