@@ -5,6 +5,17 @@
 ### Dataset Information
 This dataset is from a survey that measures attitudes towards mental health and frequency of mental health disorders.
 
+### Installation
+  ! pip install pandas
+  ! pip install numpy
+  ! pip install scipy
+  ! pip install matplotlib
+  ! pip install seaborn
+  ! pip install skitlearn
+  ! pip install mlxtend
+  ! pip install tensorflow
+  ! pip install argparse
+   
 #### The proccess is the following:
 
 * Library and data loading
@@ -15,13 +26,13 @@ This dataset is from a survey that measures attitudes towards mental health and 
 * Scaling and fitting
 * Tuning
 * Evaluating models
- 1. Logistic Eegression
- 2. KNeighbors Classifier
- 3. Decision Tree Classifier
- 4. Random Forests
- 5. Bagging
- 6. Boosting
- 7. Stacking
+   1. Logistic Eegression
+   2. KNeighbors Classifier
+   3. Decision Tree Classifier
+   4. Random Forests
+   5. Bagging
+   6. Boosting
+   7. Stacking
 * Predicting with Neural Network
 * Success method plot
 * Creating predictions on test set
