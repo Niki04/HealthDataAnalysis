@@ -4,20 +4,8 @@
 
 ### Dataset Information
 This dataset is from a survey that measures attitudes towards mental health and frequency of mental health disorders.
-
-### Installation
-! pip install pandas
-! pip install numpy
-! pip install scipy
-! pip install matplotlib
-! pip install seaborn
-! pip install skitlearn
-! pip install mlxtend
-! pip install tensorflow
-! pip install argparse
    
 #### The proccess is the following:
-
 * Library and data loading
 * Data cleaning
 * Encoding data
